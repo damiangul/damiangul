@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi 😃
+
+I am a hardworking and determined person whose goal is to be better and better!
+
+Skills:
+- Javascript, ReactJS, Redux
+- HTML, CSS (SASS, SCSS)
+- MS SQL
+- Java
+- C#
 
 <!--
 **damiangul/damiangul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
