@@ -9,6 +9,10 @@ Skills:
 - Java
 - C#
 
+Learning:
+- C# backend
+- TypeScript
+
 <!--
 **damiangul/damiangul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
